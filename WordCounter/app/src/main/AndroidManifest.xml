@@ -15,7 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".controllers.WordCounterActivity"></activity>
+        <activity android:name=".controllers.WordCounterActivity" />
+        <activity android:name=".controllers.AboutActivity" />
+        <activity android:name=".controllers.SettingsActivity"></activity>
     </application>
 
 </manifest>
